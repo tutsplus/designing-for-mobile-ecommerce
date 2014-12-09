@@ -1,4 +1,6 @@
-designing-for-mobile-ecommerce
-==============================
+### Tuts+ Course: Designing for Mobile eCommerce
+#### Instructor: Adi Purdila
 
-Source files for Tuts+ course: Designing for Mobile eCommerce
+Designing for Mobile eCommerce
+
+**Available on Tuts+ December, 2014**

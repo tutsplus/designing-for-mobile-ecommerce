@@ -1,0 +1,9 @@
+The client needs an eCommerce website that sells computers, smartphones and tablets.
+
+	- On the homepage he wants to show a promotional banner for black friday, then a list of the most popular categories and finally a list of all the categories. Also, a search box should be visible at the top of the page so the users can search right away.
+	- The top menu should show a large version of the logo, a shopping cart icon with a cart count indicator and a button that will toggle the off-canvas navigation. We would also like some kind of access to the account area from which the user can access his account and also the login and registration pages.
+	- The category page should show a list of items with an image preview, title, rating, stock information and price. The stock could be in any of these 3 states: sufficient, out of stock, limited.
+	- The product page should feature a large product image slider, a dropdown for selecting various options, a section for description as well as one for reviews. Reviews can only be added by logged in users.
+	- When it comes to shopping cart and checkout, they should be very simple and easy to use. The checkout can only be made by logged in users. At the shipping stage, the user can choose an existing address, edit it or add a new one. Also, the billing address can be the same as the shipping one.
+	- As for payment methods, we only support credit or debit cards and cash on delivery.
+	- For the color scheme, choose something that complements the colours of our logo.

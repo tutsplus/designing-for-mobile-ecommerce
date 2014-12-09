@@ -1,0 +1,13 @@
+Hello,
+
+Here is your assignment:
+
+	1. Design the filter window
+	2. Find a way to show the active filters on the category page
+	3. Where do we put the user icon and user access?
+	4. Create the user reviews tab on the product page as well as the review form
+	5. Create the login and registration pages based on the wireframes
+	6. Design the off-canvas navigation.
+	7. Think about what improvement can be made to this design.
+
+If at any point you find yourself in a tough spot with this homework, please email me at adipurdila@gmail.com and I'll do my best to assist you :)
